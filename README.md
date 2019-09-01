@@ -1,6 +1,6 @@
 # Digital Day 2019: NPR DailyGraphics Next
 
-Sean McMinn
+_Sean McMinn_
 
 - [dailygraphics-next](https://github.com/nprapps/dailygraphics-next)
 - Shortcomings with WYSIWYGs (chartbuilder, datawrapper, etc)
@@ -13,7 +13,7 @@ Sean McMinn
 - Demo
 	- Launch annotated line chart
 	- Show initial view
-	- Paste in data
+	- Replace data
 	- Add Katrina label (offset y 36)
 	- Hed/chatter
 	- Show files created, add .tickFormat(d => d + "M") to yaxis
@@ -23,6 +23,8 @@ Sean McMinn
 
 
 [APPRX NEW ORLEANS TOURISM DATA (UNO)](https://new.uno.edu/research/centers-and-institutes/dber/metro-reports):
+
+```
 date	Amount
 1/1/2004	10
 1/1/2005	4
@@ -37,3 +39,4 @@ date	Amount
 1/1/2014	9.7
 1/1/2015	9.8
 1/1/2016	10.4
+```
