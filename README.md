@@ -22,7 +22,7 @@ _Sean McMinn_
 - Resources to set up: twilburn@npr.org, ahurt@npr.org, smcminn@npr.org 
 
 
-### [APPRX NEW ORLEANS TOURISM DATA (UNO)](https://new.uno.edu/research/centers-and-institutes/dber/metro-reports):
+### APPRX NEW ORLEANS TOURISM DATA [(UNO)](https://new.uno.edu/research/centers-and-institutes/dber/metro-reports):
 
 ```
 date	Amount
