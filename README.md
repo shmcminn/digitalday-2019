@@ -20,10 +20,12 @@ _Sean McMinn_
 	- Add HTML to source with link `(https://new.uno.edu/research/centers-and-institutes/dber/metro-reports)`
 	- Deploy
 - Resources to set up: twilburn@npr.org, ahurt@npr.org, smcminn@npr.org 
-- Examples of dg-next potential
-	- [Child Poverty](https://apps.npr.org/dailygraphics/graphics/child-poverty-demos-20190227/preview.html#desktop) 
-	- [Fire Losses](https://apps.npr.org/dailygraphics/graphics/cal-fire-insurance-20190417/preview.html#desktop)
-	- [Heat/Income](https://apps.npr.org/dailygraphics/graphics/heat-poverty-interactive-20190822/preview.html#desktop)
+
+### Examples of dg-next potential
+	
+- [Child Poverty](https://apps.npr.org/dailygraphics/graphics/child-poverty-demos-20190227/preview.html#desktop) 
+- [Fire Losses](https://apps.npr.org/dailygraphics/graphics/cal-fire-insurance-20190417/preview.html#desktop)
+- [Heat/Income](https://apps.npr.org/dailygraphics/graphics/heat-poverty-interactive-20190822/preview.html#desktop)
 
 
 ### APPRX NEW ORLEANS TOURISM DATA [(UNO)](https://new.uno.edu/research/centers-and-institutes/dber/metro-reports):
