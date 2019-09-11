@@ -6,6 +6,9 @@ smcminn@npr.org
 
 During the session, access this page at www.yellkey.com/center
 
+
+## Agenda
+
 - [dailygraphics-next](https://github.com/nprapps/dailygraphics-next)
 - Shortcomings with WYSIWYGs (chartbuilder, datawrapper, tableau etc)
 	- customization
@@ -24,8 +27,9 @@ During the session, access this page at www.yellkey.com/center
 	- Add HTML to source with link `(https://new.uno.edu/research/centers-and-institutes/dber/metro-reports)`
 	- Deploy
 - Resources to set up: twilburn@npr.org, ahurt@npr.org, smcminn@npr.org 
+- Documentation for [dailygraphics-next](https://github.com/nprapps/dailygraphics-next)
 
-### Examples of dg-next potential
+## Examples of dg-next potential
 	
 - [Child Poverty](https://apps.npr.org/dailygraphics/graphics/child-poverty-demos-20190227/preview.html#desktop) 
 - [Fire Losses](https://apps.npr.org/dailygraphics/graphics/cal-fire-insurance-20190417/preview.html#desktop)
