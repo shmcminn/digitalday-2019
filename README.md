@@ -1,9 +1,10 @@
 # Digital Day 2019: NPR DailyGraphics Next
 
 _Sean McMinn_
+smcminn@npr.org
 
 - [dailygraphics-next](https://github.com/nprapps/dailygraphics-next)
-- Shortcomings with WYSIWYGs (chartbuilder, datawrapper, etc)
+- Shortcomings with WYSIWYGs (chartbuilder, datawrapper, tableau etc)
 	- customization
 	- image/html
 	- responsiveness
