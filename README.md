@@ -1,7 +1,10 @@
 # Digital Day 2019: NPR DailyGraphics Next
 
 _Sean McMinn_
+
 smcminn@npr.org
+
+During the session, access this page at www.yellkey.com/center
 
 - [dailygraphics-next](https://github.com/nprapps/dailygraphics-next)
 - Shortcomings with WYSIWYGs (chartbuilder, datawrapper, tableau etc)
