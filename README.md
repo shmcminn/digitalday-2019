@@ -4,8 +4,6 @@ _Sean McMinn_
 
 smcminn@npr.org
 
-During the session, access this page at www.yellkey.com/center
-
 
 ## Agenda
 
